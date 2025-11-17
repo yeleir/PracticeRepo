@@ -1,4 +1,6 @@
+
+Today is monday, its raining out!
 Hello everyone
 Today we are learning git/github
-have a great weekend
+have a great week
 
